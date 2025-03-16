@@ -8,4 +8,4 @@ def fungsi_pembagian(a,b):
     if b > 0:
         return a/b
     else:
-        print("INVALID NUMBER RESULTS BECAUSE ZERO FOR DENOMINATOR")
+        print("Denominator berangka 0 sehingga pembagian akan error")
