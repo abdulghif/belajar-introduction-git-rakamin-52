@@ -12,3 +12,7 @@ def fungsi_pembagian(a,b):
 
 def fungsi_pengurangan(a,b):
     return a-b
+
+
+def fungsi_perkalian(a,b):
+    return a*b
