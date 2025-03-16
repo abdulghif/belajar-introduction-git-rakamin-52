@@ -9,3 +9,6 @@ def fungsi_pembagian(a,b):
         return a/b
     else:
         print("Denominator berangka 0 sehingga pembagian akan error")
+
+def fungsi_pengurangan(a,b):
+    return a-b
